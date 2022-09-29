@@ -1,6 +1,10 @@
 # Task-Manager
-Task manager
-Title: Add task editing
+
+______________________________________________________________________________________________________________________________________________________________________
+## ABOUT
+MAKE YOU DREAMS HAPPEN WHEN USING AN AUTOMATED TO DO AGENDA. JUST FILL IN THE TASK, MOVE IT TO THE NEXT PHASE, AND DRAG TO TRASH OR MOVE TASK TO ANOTHER PHASE. ONE DAY AT A TIME!!! THE JOURNEY TO A THOUSAND CODE BLOCKS STARTS WITH ONE.
+
+
 
 **Work Done:**
 
