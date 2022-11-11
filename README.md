@@ -4,7 +4,7 @@ ________________________________________________________________________________
 # ABOUT
 MAKE YOUR DREAMS HAPPEN BY STAYING ORGANIZED!!! USE TIME MANAGMENT ON THE GO WITH AN AUTOMATED TO DO AGENDA. JUST FILL IN THE TASK, MOVE IT TO THE NEXT PHASE, AND DRAG TO TRASH OR MOVE TASK TO ANOTHER PHASE. ONE DAY AT A TIME!!! THE JOURNEY TO A THOUSAND CODE BLOCKS STARTS WITH ONE.
 
-![Ss](https://media-exp1.licdn.com/dms/image/C5622AQEUs40P9eBFiA/feedshare-shrink_800/0/1664478646703?e=1667433600&v=beta&t=SedXpSms2A0_aL5y_q2eNmh69A990bvu3BFx3M7HbdM)
+![Ss](https://karltunmoreno.github.io/My-Portfolio/assets/images/111111.jpg)
 
  #### Front-end:
  
